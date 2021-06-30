@@ -24,7 +24,7 @@ Then,home page will appear as specified in this image ![Screenshot_2021-07-01-02
 
 
 
-A few resources to get you started if new to build  your first Flutter project:
+A few resources to get started if you are new to build  your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
